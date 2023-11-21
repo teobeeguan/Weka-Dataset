@@ -1,0 +1,9 @@
+@RELATION relation
+@ATTRIBUTE class {"1st","2nd","3rd","crew"}
+@ATTRIBUTE age {"adult","child"}
+@ATTRIBUTE sex {"male","female"}
+@ATTRIBUTE survived {"yes","no"}
+@DATA
+1st,adult,male,yes
+2nd,adult,male,no
+2nd,adult,female,yes
